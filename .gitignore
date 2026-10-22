@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+
+# Uploaded PDFs (local data)
+uploads/
+
+# Qdrant local storage (vector database data)
+qdrant_storage/
