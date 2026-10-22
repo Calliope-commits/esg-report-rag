@@ -6,6 +6,8 @@ This project is a **Retrieval-Augmented Generation (RAG)** application: PDFs are
 
 **Demo use case:** analyzing climate and ESG reports from energy companies, such as TotalEnergies' 124-page *Sustainability & Climate 2026 Progress Report*.
 
+![App screenshot](docs/esg_report_demo.jpg)
+
 <!-- Add your demo GIF or video here -->
 <!-- ![Demo](docs/demo.gif) -->
 
